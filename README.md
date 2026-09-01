@@ -1,4 +1,7 @@
-﻿# blind_watermark
+> [!TIP]
+> **JJC 定制版** - 同步自 guofei9987/blind_watermark，qmhdl1027 维护
+
+# blind_watermark
 
 > [!TIP]
 > 🚀 **JJC 定制版** — 同步自 blind_watermark/guofei9987，Python 盲水印工具中文版
